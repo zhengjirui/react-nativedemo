@@ -1,0 +1,21 @@
+react 初学案例教程
+
+项目的建立方式是采用faceback的create-react-app方式开启的；
+
+app主要目录是src
+
+---react2
+    |
+    |---src
+        |
+        |---conmpoents(通用组件)
+        |
+        |
+        |
+        |---containers(app的界面搭建)----主要功能都在该文件夹中实现
+        |
+        |
+        |
+        |
+    |--index.js(项目的入口文件)
+    |--index.css(项目的base样式文件)

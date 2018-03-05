@@ -1,0 +1,36 @@
+.header {
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    background: darkcyan;
+}
+
+.header > .left {
+    height: 40px;
+    width: 15%;
+    text-align: left;
+    float: left;
+    line-height: 40px;
+    margin-left: 5px;
+}
+
+.header > .left > .back{
+}
+
+.header > .middle {
+    height: 40px;
+    width: 15%;
+    display:inline-block;
+    line-height: 40px;
+}
+
+.header > .right {
+    height: 40px;
+    width: 15%;
+    text-align: right;
+    float: right;
+    line-height: 40px;
+    margin-right: 5px;
+}
+
